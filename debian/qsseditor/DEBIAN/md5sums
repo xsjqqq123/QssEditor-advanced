@@ -1,0 +1,14 @@
+00117007ca43201a8ea69aa10d5e7504  usr/bin/qsseditor
+211f217f91267f3ef0272fd71fe7af8f  usr/share/applications/qsseditor.desktop
+ac8fe2a0ad7591171c4fc66603a2d9fe  usr/share/doc/qsseditor/changelog.Debian.gz
+0fb726d58277a5b6cef1fc42e2224086  usr/share/doc/qsseditor/copyright
+5311e4adb1ba5d33bec04a258f6143cc  usr/share/icons/hicolor/16x16/apps/qsseditor.png
+6d9f5e46c257fda1dbb3f7fbf15fff6b  usr/share/icons/hicolor/24x24/apps/qsseditor.png
+3c59a27fda513cf00d819e1669ef651f  usr/share/icons/hicolor/32x32/apps/qsseditor.png
+e3bb20c1db3f9386ae672b129448ce5d  usr/share/icons/hicolor/48x48/apps/qsseditor.png
+f0f76ab098fe463c0bdc466db23d30d0  usr/share/man/man1/qsseditor.1.gz
+815bf3dbbaa05ddc175dbe1fb512c24b  usr/share/qsseditor/translations/qsseditor_de.qm
+4aef4415f2e976b2cc6f24b877804a57  usr/share/qsseditor/translations/qsseditor_en.qm
+182883634026c492bc9d4ab499488f39  usr/share/qsseditor/translations/qsseditor_ro.qm
+af68aef908fa9d243b4a5b45443e7fa1  usr/share/qsseditor/translations/qsseditor_ru.qm
+758610a39bb11cccf13f7862546ae531  usr/share/qsseditor/translations/qsseditor_zh_CN.qm

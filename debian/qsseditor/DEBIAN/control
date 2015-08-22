@@ -1,0 +1,14 @@
+Package: qsseditor
+Version: 0.5.5-1
+Architecture: amd64
+Maintainer: Dmitry Baryshev <linuxsquirrel.dev@gmail.com>
+Installed-Size: 366
+Depends: libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libqscintilla2-11, libqtcore4 (>= 4:4.7.0~beta1), libqtgui4 (>= 4:4.6.1), libstdc++6 (>= 4.1.1)
+Section: graphics
+Priority: extra
+Multi-Arch: foreign
+Homepage: https://qt-project.org/
+Description: QSS Editor is a tool to edit and preview
+ Qt style sheets. It provides a simple interface
+ with autocompletion support.
+Original-Maintainer: Dmitry Baryshev <linuxsquirrel.dev@gmail.com>
